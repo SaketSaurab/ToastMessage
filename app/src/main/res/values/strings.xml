@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">DisplayToastMessage</string>
+    <string name="button_one">Button one</string>
+    <string name="displayToast">Button one is clicked</string>
+    <string name="button_two">Button Two</string>
+    <string name="button_three">Button Three</string>
+</resources>
